@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*默认颜色方案*/
+span.white,span.white-hover{background:url(../botton/btnDsb_bg_right.gif) top right no-repeat;text-align:center;overflow:hidden;zoom:1;float:left;display:inline-block;padding-right:3px;}
+span.white span{background:url(../botton/btnDsb_bg_left.gif);display:block;height:24px;}
+span.white-hover{background:url(../botton/btnover_bg_right.gif) top right;}
+span.white-hover span{background-image:url(../botton/btnover_bg_left.gif);}
+
+/*默认颜色方案*/
+span.gray,span.gray-hover{background:url(../botton/btnout_bg_right.gif) top right no-repeat;text-align:center;overflow:hidden;zoom:1;float:left;display:inline-block;padding-right:3px;}
+span.gray span{background:url(../botton/btnout_bg_left.gif);display:block;height:24px;}
+span.gray-hover{background:url(../botton/btnover_bg_right.gif) top right;}
+span.gray-hover span{background-image:url(../botton/btnover_bg_left.gif);}
+
+/*红色方案*/
+span.red,span.red-hover{background:url(../botton/btout_red_bg_right.gif) top right no-repeat;text-align:center;overflow:hidden;zoom:1;float:left;display:inline-block;padding-right:3px;}
+span.red span{background:url(../botton/btout_red_bg_left.gif);display:block;height:24px;}
+span.red-hover{background:url(../botton/btnover_bg_right.gif) top right;}
+span.red-hover span{background-image:url(../botton/btnover_bg_left.gif);}
+
+
+
+
+span .button{border:none;font-size:12px;background-position:3px center;background-repeat:no-repeat;font-family:Arial;text-decoration:none;color:#000;padding-left:20px;*width:1;overflow:visible;box-sizing: border-box;zoom: 1;line-height:24px;height:24px;background-color:transparent;}
+
+
+
+.icon-cls {background-image:url(../../images/icons/class.gif) !important;}
+.icon-event {background-image: url(../../images/icons/event.gif) !important;}
+.icon-config {background-image: url(../../images/icons/config.gif) !important;}
+.icon-prop {background-image: url(../../images/icons/prop.gif) !important;}
+.icon-method {background-image: url(../../images/icons/method.gif) !important;}
+.icon-cmp {background-image: url(../../images/icons/cmp.gif) !important;}
+.icon-pkg {background-image: url(../../images/icons/pkg.gif) !important;}
+.icon-fav {background-image: url(../../images/icons/fav.gif) !important;}
+.icon-static {background-image: url(../../images/icons/static.gif) !important;}
+.icon-docs {background-image: url(../../images/icons/docs.gif) !important;}
+.icon-expand-all {background-image: url(../../images/icons/expand-all.gif) !important;}
+.icon-collapse-all {background-image: url(../../images/icons/collapse-all.gif) !important;}
+.icon-expand-members {background-image: url(../../images/icons/expand-members.gif) !important;}
+.icon-hide-inherited {background-image: url(../../images/icons/hide-inherited.gif) !important;}
+.icon-org {background-image: url(../../images/icons/org.gif) !important;}
+.icon-save {background-image: url(../../images/icons/save.gif) !important;}
+.icon-save-back {background-image: url(../../images/icons/save-back.png) !important;}
+.icon-add {background-image: url(../../images/icons/add.gif) !important;}
+.icon-delete {background-image: url(../../images/icons/delete.gif) !important;}
+.icon-add-row {background-image: url(../../images/icons/add-row.gif) !important;}
+.icon-delete-row {background-image: url(../../images/icons/delete-row.gif) !important;}
+.icon-back {background-image: url(../../images/icons/back.png) !important;}
+.icon-search {background-image: url(../../images/icons/search.png) !important;}
+.icon-search-row {background-image: url(../../images/icons/search-row.png) !important;}
+.icon-reload {background-image: url(../../images/icons/reload.png) !important;}
+.icon-reset {background-image: url(../../images/icons/reload.png) !important;}
+.icon-print {background-image: url(../../images/icons/print.gif) !important;}
+.icon-export {background-image: url(../../images/icons/print.gif) !important;}
+.icon-help {background-image: url(../../images/icons/help.png) !important;}
+.icon-check {background-image: url(../../images/icons/check.png) !important;}
+.icon-copy {background-image: url(../../images/icons/copy.png) !important;}
+.icon-example {background-image: url(../../images/icons/example.gif) !important;}
+.icon-retry {background-image: url(../../images/icons/retry.png) !important;}
+.icon-send-now {background-image: url(../../images/icons/send-now.gif) !important;}
+.icon-receive-now {background-image: url(../../images/icons/send-receive.gif) !important;}
+.icon-edit {background-image: url(../../images/icons/edit.png) !important;}
+.icon-checked {background-image: url(../../images/icons/checked.gif) !important;}
+.icon-unchecked {background-image: url(../../images/icons/unchecked.gif) !important;}
+.icon-pick-button {background-image: url(../../images/icons/pick-button.gif) !important;}
+.icon-cancel {background-image: url(../../images/icons/cancel.png) !important;}
+.icon-apply {background-image: url(../../images/icons/apply.png) !important;}
+.icon-offset {background-image: url(../../images/icons/offset.png) !important;}
+.icon-success {background-image: url(../../images/icons/success.gif) !important;}
+.icon-forum {background-image: url(../../images/icons/forum.gif) !important;}
+.icon-pdf {background-image: url(../../images/icons/pdf.gif) !important;}
+.icon-excel {background-image: url(../../images/icons/excel.gif) !important;}
+.icon-word {background-image: url(../../images/icons/word.gif) !important;}
+.icon-preprint {background-image: url(../../images/icons/pre_print.gif) !important;}
+.icon-btncom {background-image: url(../../images/icons/prop.gif) !important;}
+.icon-add-new {background-image: url(../../images/icons/add-new.png) !important;}
